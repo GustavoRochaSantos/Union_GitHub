@@ -1,1 +1,7 @@
-# This is a basic information about the test
+**Hello! You're Welcome**
+
+This is my readme about the Git course.
+
+**Commits**
+1) initial informations
+2) Describe about the course
